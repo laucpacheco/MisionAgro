@@ -1,0 +1,63 @@
+
+[
+    {
+        "id": "ma-chuleta",
+        "proteina": "Chuleta",
+        "clase": "Malus Domestica",
+        "precio": "$30"
+
+    },
+
+    {
+        "id": "ma-pechuga",
+        "proteina": "Pechuga",
+        "clase": "Prunus Persica",
+        "precio": "$20"
+    }, 
+    
+    {
+        "id": "ma-gallina",
+        "proteina": "Gallina",
+        "clase":"Musa Paradisiaca",
+        "precio": "$50"
+    },
+
+    {
+        "id": "ma-pavo",
+        "proteina": "Pavo",
+        "clase":"Musa Paradisiaca",
+        "precio": "$80"
+    },
+
+    {
+        "id": "ma-tocino",
+        "proteina": "Tocino",
+        "clase":"Magnoliopsida",
+        "precio": "$70"
+    },
+
+    {
+        "id": "ma-carne",
+        "proteina": "Carne",
+        "clase":"Magnoliopsida",
+        "precio": "$70"
+    },
+
+    {
+        "id": "ma-chorizo",
+        "proteina": "Chorizo",
+        "clase":"Magnoliopsida",
+        "precio": "$80"
+    },
+
+    {
+        "id": "ma-pescado",
+        "proteina": "Pescado",
+        "clase":"Magnoliopsida",
+        "precio": "$50"
+    }
+
+
+
+
+]

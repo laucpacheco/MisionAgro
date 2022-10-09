@@ -1,0 +1,61 @@
+[
+    {
+        "id": "ma-lechuga",
+        "verdura": "Lechuga",
+        "clase": "Magnoliopsida",
+        "precio": "$25"
+    },
+
+    {
+        "id": "ma-acelga",
+        "verdura": "Acelga",
+        "clase": "Magnoliopsida",
+        "precio":"$18"
+    }, 
+    
+    {
+        "id": "ma-brocoli",
+        "verdura": "Brócoli",
+        "clase":"Magnoliopsida",
+        "precio": "$16"
+    },
+
+    {
+        "id": "ma-repollo",
+        "verdura": "Repollo",
+        "clase": "Magnoliopsida",
+        "precio":"$45"
+    },
+
+    {
+        "id":"ma-pepino",
+        "verdura":"Pepino",
+        "clase":"Magnoliopsida",
+        "precio":"$36"
+    },
+    {
+        "id":"ma-zucchini",
+        "verdura":"Zucchini",
+        "clase":"Magnoliopsida",
+        "precio":"$48"
+    },
+
+    {
+        "id":"ma-remolacha",
+        "verdura":"Remolacha",
+        "clase":"Veta Bulgaris",
+        "precio":"$56"
+    },
+
+    {
+        "id":"ma-espinaca",
+        "verdura":"Espinaca",
+        "clase":"Magnoliopsida",
+        "precio":"$90"
+    }
+
+
+
+
+
+]

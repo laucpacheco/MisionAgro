@@ -1,0 +1,59 @@
+
+[
+    {
+        "id": "ma-azucar",
+        "otro": "Azucar",
+        "clase": "Malus Domestica",
+        "precio": "$30"
+
+    },
+
+    {
+        "id": "ma-cafe",
+        "otro": "Cafe",
+        "clase": "Prunus Persica",
+        "precio": "$20"
+    }, 
+    
+    {
+        "id": "ma-comino",
+        "otro": "Comino",
+        "clase":"Musa Paradisiaca",
+        "precio": "$50"
+    },
+
+    {
+        "id": "ma-oregano",
+        "otro": "Oregano",
+        "clase":"Musa Paradisiaca",
+        "precio": "$80"
+    },
+
+    {
+        "id": "ma-panela",
+        "otro": "Panela",
+        "clase":"Magnoliopsida",
+        "precio": "$70"
+    },
+
+    {
+        "id": "ma-pimienta",
+        "otro": "Pimienta",
+        "clase":"Magnoliopsida",
+        "precio": "$70"
+    },
+
+    {
+        "id": "ma-romero",
+        "otro": "Romero",
+        "clase":"Magnoliopsida",
+        "precio": "$80"
+    },
+
+    {
+        "id": "ma-curcuma",
+        "otro": "Curcuma",
+        "clase":"Magnoliopsida",
+        "precio": "$50"
+    }
+]

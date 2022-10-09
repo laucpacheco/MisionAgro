@@ -1,0 +1,95 @@
+:root{
+  --blanco: #FFffff;
+  --negro: #292525;
+  --verde: #142D10;
+  --fuente:  'Roboto', sans-serif;
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.contenedor{
+   margin: 0 auto;
+   max-width: 1200px;
+   width: 100%;
+}
+.img-form{
+    background-image: url('../img/Registro.jpg');
+    background-position: center center ;
+    background-size: cover;
+    height: 150px;
+    flex:0 0 calc(50%) 
+}
+/*media query*/
+
+@media(min-width:768px){
+    /*A partir de tableta se vuelve auto*/
+    .img-form{
+        height: auto;
+    }
+
+
+}
+@media(min-width:768px) {
+    .form-container{
+        display: flex;
+    }
+    
+}
+.formulario{
+    padding: 150px;
+    background-color: var(--blanco);
+}
+.text-formulario h4, input label, .contraseña-perdida, .a {
+
+    color: var(--negro);
+        margin: 30px;
+        text-align: center;
+
+}
+
+.text-formulario h4{
+
+    font-size: 40px;
+    text-align: center;
+}
+
+.input label{
+    display: block;
+    font-size: 25 px;
+    font-weight: bold;
+    color: var(--negro);
+    margin: 20 px 0 0 ;
+
+}
+.input input{
+    margin: 10px;
+    width: 100%;
+    padding: 6px 25px ;
+    border-radius: 30px;
+    outline: none;
+
+
+}
+
+/*Colores al botón*/
+
+.input input[type="submit"]{
+    background-color: var(--negro);
+    width: 100%;
+    
+    color: var(--blanco);
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    transition: background-color .3s ease-in-out;
+    
+}
+.input input[type="submit"]:hover{
+    cursor: pointer;
+    background-color: var(--verde);
+
+
+}

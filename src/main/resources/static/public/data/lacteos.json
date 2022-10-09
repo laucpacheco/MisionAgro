@@ -1,0 +1,58 @@
+[
+    {
+        "id": "ma-condensada",
+        "lacteo": "Condensada",
+        "clase": "Malus Domestica",
+        "precio": "$30"
+
+    },
+
+    {
+        "id": "ma-helado",
+        "lacteo": "Helado",
+        "clase": "Prunus Persica",
+        "precio": "$20"
+    }, 
+    
+    {
+        "id": "ma-leche",
+        "lacteo": "Leche",
+        "clase":"Musa Paradisiaca",
+        "precio": "$50"
+    },
+
+    {
+        "id": "ma-mantequilla",
+        "lacteo": "Mantequilla",
+        "clase":"Musa Paradisiaca",
+        "precio": "$80"
+    },
+
+    {
+        "id": "ma-quajada",
+        "lacteo": "Quajada",
+        "clase":"Magnoliopsida",
+        "precio": "$70"
+    },
+
+    {
+        "id": "ma-queso",
+        "lacteo": "Queso",
+        "clase":"Magnoliopsida",
+        "precio": "$70"
+    },
+
+    {
+        "id": "ma-yogur",
+        "lacteo": "Yogur",
+        "clase":"Magnoliopsida",
+        "precio": "$80"
+    },
+
+    {
+        "id": "ma-arequipe",
+        "lacteo": "Arequipe",
+        "clase":"Magnoliopsida",
+        "precio": "$50"
+    }
+]
